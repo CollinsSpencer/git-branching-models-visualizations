@@ -1,1 +1,0 @@
-# git-branching-models-visualizations
